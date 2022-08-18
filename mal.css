@@ -1,0 +1,22 @@
+/*strong{
+	text-align: center;
+	color: deepskyblue;
+}*/
+strong{
+	text-align:justify;
+	color: deepskyblue;
+}
+h1{
+	text-align: center;
+}
+body{
+		background-color: mistyrose;
+
+}
+a{
+	text-decoration: none;
+}
+button{
+	background-color: mistyrose;
+	text-align: justify;
+}
